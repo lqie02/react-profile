@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project about a language learning management system.",
+      "skills": ["HTML", "CSS", "PHP"],
+      "source": "https://github.com/lqie02/multidb"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project about a simple food ordering management system.",
+      "skills": ["HTML", "CSS", "PHP", "JS"],
+      "source": "https://github.com/weiwong10/foodOrdering"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project about a simple pet grooming mangement system.",
+      "skills": ["HTML", "CSS", "PHP", "JS"],
+      "source": "https://github.com/lqie02/petGrooming"
+    }
+  ]
